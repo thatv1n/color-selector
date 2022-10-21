@@ -6,6 +6,8 @@ import chroma from 'chroma-js';
 
 import { toast } from 'react-toastify';
 
+import '../App.css';
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLock, faLockOpen } from '@fortawesome/free-solid-svg-icons';
 

@@ -1,7 +1,6 @@
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-import './App.css';
 import Colors from './Components/Colors';
 
 function App() {
